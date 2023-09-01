@@ -1,3 +1,2 @@
 #!/bin/bash
-chown 'vincent':'staff' 'hello'
-
+chown -h vincent:staff -hello
